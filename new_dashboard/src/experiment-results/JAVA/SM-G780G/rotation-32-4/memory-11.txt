@@ -1,4 +1,0 @@
-Applications Memory Usage (in Kilobytes):
-Uptime: 267570722 Realtime: 764063781
-
-** MEMINFO in pid 4513 [com.android.androidappexp] **
